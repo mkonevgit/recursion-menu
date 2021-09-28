@@ -1,0 +1,410 @@
+{
+  "data": [
+    {
+      "id": "8a913beb-4892-4ba7-bc0b-280e081a5330",
+      "parentId": null,
+      "name": "Одежда",
+      "level": 1,
+      "subCategories": [
+        {
+          "id": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+          "parentId": "8a913beb-4892-4ba7-bc0b-280e081a5330",
+          "name": "Женщинам",
+          "level": 2,
+          "subCategories": [
+            {
+              "id": "1a92dff0-1710-4c25-b508-792983012b30",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Футболки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5343",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Блузы и рубашки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5344",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Брюки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5345",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Верхняя одежда",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5346",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Джемперы, свитеры и кардиганы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5347",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Джинсы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5348",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Одежда больших размеров",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5349",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Пиджаки и костюмы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5350",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Спортивные костюмы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5351",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Толстовки и свитшоты",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5352",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Топы и майки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5353",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Футболки и поло",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5354",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Шорты",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5355",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Платья и сарафаны",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5356",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Юбки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5361",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Головные уборы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5362",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Сумки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5363",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Украшения",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5364",
+              "parentId": "1ec43bf0-ade0-4935-8026-4b629387f2ac",
+              "name": "Обувь",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            }
+          ],
+          "isActive": true
+        },
+        {
+          "id": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+          "parentId": "8a913beb-4892-4ba7-bc0b-280e081a5330",
+          "name": "Мужчинам",
+          "level": 2,
+          "subCategories": [
+            {
+              "id": "6d7bc3df-8f5c-42d3-af2d-80dcdea3bce9",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Футболки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5331",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Блузы и рубашки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5332",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Брюки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5333",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Верхняя одежда",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5334",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Джемперы, свитеры и кардиганы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5335",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Джинсы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5336",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Одежда больших размеров",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5337",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Пиджаки и костюмы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5338",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Спортивные костюмы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5339",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Толстовки и свитшоты",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5340",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Топы и майки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5341",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Футболки и поло",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5342",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Шорты",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5357",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Головные уборы",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5358",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Сумки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5359",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Украшения",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "8a913beb-4892-4ba7-bc0b-280e081a5360",
+              "parentId": "2ade2e4c-09b8-4702-ab32-9e3e04893f7c",
+              "name": "Обувь",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            }
+          ],
+          "isActive": true
+        },
+        {
+          "id": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+          "parentId": "8a913beb-4892-4ba7-bc0b-280e081a5330",
+          "name": "Детям",
+          "level": 2,
+          "subCategories": [
+            {
+              "id": "8531dfe0-22f4-4242-af7d-14448e67542a",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Мальчикам от 6 до 14 лет",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "21844002-9a03-4fcb-ad1f-b3b4dae83ffd",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Девочкам от 2-5 лет",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "ad62cd47-1164-42b2-bfc8-51b336315e4f",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Новорожденным 0-1 год",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "b08dec68-9062-4bea-a9b6-ef3aab48fe81",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Другие товары",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "343b9e27-e1ac-4ede-8032-b2dbc2870514",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Обувь",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "c68b0e7d-2bf8-4949-9ca4-1e57c6918d8c",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Аксессуары",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "f151eb61-4a8a-444c-a26b-3d6e970895e5",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Молодым мамам",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "d4a6d710-13c1-4c02-9097-e12198724ea6",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Игрушки",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "113d8cba-4b90-4b2a-8ee2-ebdbe0d99ab3",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Девочкам от 6 до 14 лет",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            },
+            {
+              "id": "55c69120-976c-4eb3-a266-a4ee5e4afe95",
+              "parentId": "b2ca466c-0a2c-4492-9594-2873f2c0fe37",
+              "name": "Мальчикам от 2-5 лет",
+              "level": 3,
+              "subCategories": [],
+              "isActive": true
+            }
+          ],
+          "isActive": true
+        }
+      ],
+      "isActive": true
+    }
+  ],
+  "isOk": true,
+  "statusCode": 200
+}

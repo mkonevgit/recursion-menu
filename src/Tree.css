@@ -1,0 +1,22 @@
+.App {
+    text-align: left;
+}
+
+.inside_div {
+    padding: 10px;
+    padding-top: 0;
+    padding-left: 27px;
+    position: relative;
+    border: 1px solid red;
+}
+
+.primitive {
+    border: 1px solid green;
+    padding-top: 10px;
+}
+
+.plus_button {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+}

@@ -1,0 +1,34 @@
+.App {
+  text-align: left;
+}
+
+.inside_div {
+  padding: 10px;
+  padding-top: 0;
+  padding-left: 27px;
+  /*border: 1px solid red;*/
+}
+
+.primitive {
+  /*border: 1px solid green;*/
+  padding-top: 10px;
+}
+
+.primitive_span {
+  padding: 10px;
+}
+
+.plus_button {
+  background-color: #3673E7;
+  color: #fff;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: bold;
+  height: 30px;
+  width: 30px;
+  border-radius: 4px;
+}
+.red {
+  color: red;
+  background-color: grey;
+}
