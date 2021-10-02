@@ -109,7 +109,7 @@ function App() {
            <div>
              <div className={"primitive_span"}>
                <button className={"plus_button"} value={elem['id']} onClick={(event) => toggleParent(event.target.value)}>
-                 {elem['isActive'] ? '-' : '+'}
+                 {elem['isActive'] ? '-' : '++'}
                </button>
                <b><span >{' '+elem['name']}</span></b>
              </div>
