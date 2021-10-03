@@ -1,10 +1,16 @@
-git checkout -b REC-3-issue-branch-test-2
+git checkout -b REC-4-issue-pull-request-test
 git add .
-git commit -m "REC-3 issue branch test"
-git push --set-upstream origin REC-3-issue-branch-test-2
-git branch -d REC-3-issue-branch-test-2
+git commit -m "REC-4 pull request test"
+git push --set-upstream origin REC-4-issue-pull-request-test
+git branch -d front-feature-4
 git checkout main
 
+git checkout -b REC-2-issue branch test
+git add .
+git commit -m "front-feature #4 pull request test"
+git push --set-upstream origin front-feature-4
+git branch -d front-feature-4
+git checkout main
 
 git checkout -b tmp
 git branch -D main
