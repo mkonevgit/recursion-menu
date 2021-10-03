@@ -1,3 +1,11 @@
+git checkout -b REC-5-issue-review-test
+git add .
++
+git commit -m "REC-5 issue review test
+git push --set-upstream origin REC-5-issue-review-test
+git branch -d REC-5-issue-pull-request-test
+git checkout main
+
 git checkout -b REC-4-issue-pull-request-test
 git add .
 git commit -m "REC-4 pull request test"
