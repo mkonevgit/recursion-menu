@@ -12,10 +12,6 @@ git push --set-upstream origin front-feature-4
 git branch -d front-feature-4
 git checkout main
 
-
-
-
-
 git checkout -b tmp
 git branch -D main
 git fetch
